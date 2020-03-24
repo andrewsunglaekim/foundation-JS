@@ -8,7 +8,7 @@ That said, I didn't think labeling something like "intermediate js" or "advanced
 It runs an array of learning objectives that are both "beginner" and "advanced" with nuances in between.
 
 The objective behind this group of lessons is to enhance our understanding of important principles of software as it pertains to javascript.
-Less about specific syntax and more about identifying pattern and principles...by looking at specific syntax. We'll dive into code and discuss
+Less about specific syntax and more about identifying patterns and principles... by looking at specific syntax. We'll dive into code and discuss
 it top to bottom.
 
 Though the individual lessons run independent of each other, there is a bit of context in all the lessons that helps with the next lessons.
