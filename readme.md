@@ -1,7 +1,5 @@
 # FoundationsJS
 
-This isn't software, this is a readme repo.
-
 I couldn't figure out a great title for this group of courses. I kind of just wanted to take a jab at software named with JS after it.
 That said, I didn't think labeling something like "intermediate js" or "advanced js" was appropriate for a series like this.
 
@@ -17,7 +15,7 @@ The context isn't strictly necessary to understand the class, but hopefully you 
 Here are each of the lesson titles and their corresponding learning objectives.
 
 > Most of the things in the lesson plans that will be taught will be factual, there are other things
-that are just my opinion on things. Each lesson is about 75 mintues give or take. I'll try my best to give you some time back.
+that are just my opinion on things. Each lesson is about 60 mintues give or take. I'll try my best to give you some time back.
 
 ## Lesson 1: Functions, SemanticJS, Abstractions, and maybe not so great Abstractions
 - Define Abstraction
