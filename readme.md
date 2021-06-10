@@ -1,7 +1,5 @@
 # FoundationsJS
 
-This isn't software, this is a readme repo.
-
 I couldn't figure out a great title for this group of courses. I kind of just wanted to take a jab at software named with JS after it.
 That said, I didn't think labeling something like "intermediate js" or "advanced js" was appropriate for a series like this.
 
