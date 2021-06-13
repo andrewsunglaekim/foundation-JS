@@ -17,7 +17,7 @@ Here are each of the lesson titles and their corresponding learning objectives.
 > Most of the things in the lesson plans that will be taught will be factual, there are other things
 that are just my opinion on things. Each lesson is about 60 mintues give or take. I'll try my best to give you some time back.
 
-## Lesson 1: Functions, SemanticJS, Abstractions, and maybe not so great Abstractions
+## [Lesson 1: Functions, SemanticJS, Abstractions, and maybe not so great Abstractions](https://github.com/andrewsunglaekim/js-functions-semantics-and-abstractions)
 - Define Abstraction
 - Identify the inputs of a function
 - Identify the outputs of a function
